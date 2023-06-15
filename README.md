@@ -1,4 +1,4 @@
-# Project alpine_racing_gif
+# Project Alpine-Racing-GIF
 
 This repository contains my work on the test you gave me.
 
